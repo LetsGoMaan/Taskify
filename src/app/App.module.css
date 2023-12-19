@@ -1,0 +1,41 @@
+
+.app {
+  background-color: #efeaea;
+  height: max-content;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 1100px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.add_todoList_block {
+  margin: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.todoLists_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.progress_container {
+  width: 100%;
+  height: 10px;
+  background-color: #efeaea;
+}
+
+.initialized_container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

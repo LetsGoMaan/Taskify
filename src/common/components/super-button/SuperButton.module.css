@@ -1,0 +1,14 @@
+.btn {
+    margin: 10px;
+    align-self: center;
+    justify-self: center;
+}
+
+.btn2 {
+    margin: 10px;
+}
+
+.active_btn {
+    background-color: dodgerblue;
+    color: black;
+}

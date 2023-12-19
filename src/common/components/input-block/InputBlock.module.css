@@ -1,0 +1,19 @@
+/*.error_title {*/
+/*    color: orangered;*/
+/*}*/
+
+/*.input {*/
+/*    border: 1px solid orangered;*/
+/*    padding-left: 10px;*/
+/*    border-radius: 15px;*/
+/*    height: 20px;*/
+/*    width: 200px;*/
+/*    outline: none;*/
+/*}*/
+
+.input_block_wrapper {
+    display: flex;
+    gap: 10px;
+    align-items: center ;
+    height: 63px;
+}
